@@ -3,7 +3,7 @@
 
 Designed an interface using HTML, CSS, NodeJS, Bootstrap, MongoDB and hosted using Heroku Server.
 
-A cab pooling web Application for college students where they can add their destination and get user details who are willing to poll a cab for similar route hence reducing their total expendeture. You can see the server 
+A cab pooling web Application for college students where they can add their destination and get details of user who are willing to pool a cab for same route hence reducing their total expenditure. You can see the demo 
 [here](https://evening-wildwood-36907.herokuapp.com/)
 
 
