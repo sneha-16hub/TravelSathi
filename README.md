@@ -21,3 +21,24 @@ A cab pooling web Application for college students where they can add their dest
 
 ![page](https://user-images.githubusercontent.com/60435967/183378973-f948be22-b6e3-47c6-b35b-e892de06fbba.png)
 
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/sneha-16hub/TravelSathi
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  node server.js
+```
+
